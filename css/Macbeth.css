@@ -3,6 +3,13 @@ body{
     font-family: 'Microsoft JhengHei';
 }
 
+body :target:before{
+  display: block;
+  content: "";
+  height: 100px;
+  margin: 5px 0 0;
+}
+
 .flex{
     display: flex;
     justify-content: center;
