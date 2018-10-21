@@ -60,7 +60,7 @@ body :target:before{
     top:0;
     bottom: 0; */
     height: 450px;
-    background-image: url(/image/Shakespeare.jpg);
+    background-image: url(../image/Shakespeare.jpg);
     background-position:top center;
     background-size: cover;
 }
@@ -92,7 +92,7 @@ body :target:before{
 
 .box4{
     height: 450px;
-    background-image: url(/image/war.jpg);
+    background-image: url(../image/war.jpg);
     background-position:top center;
     background-size: cover;
 }
@@ -104,35 +104,35 @@ body :target:before{
 .Img1 {
     width: 80px;
     height: 200px;
-    background-image: url(/image/4a8cc26f80db1.jpg);
+    background-image: url(../image/4a8cc26f80db1.jpg);
     background-position: 40% 30%;
 }
 
 .Img2 {
     width: 80px;
     height: 250px;
-    background-image: url(/image/FuseliMacbethBoydell.jpg);
+    background-image: url(../image/FuseliMacbethBoydell.jpg);
     background-position: 50% 40%;
 }
 
 .Img3 {
     width: 80px;
     height: 300px;
-    background-image: url(/image/macbethandbanquo-witches.jpg);
+    background-image: url(../image/macbethandbanquo-witches.jpg);
     background-position: 27% 28%;
 }
 
 .Img4{
     width: 80px;
     height: 250px;
-    background-image: url(/image/Cgfo1yKWsAErFM5.jpg);
+    background-image: url(../image/Cgfo1yKWsAErFM5.jpg);
     background-position: 50% 40%;
 }
 
 .Img5 {
     width: 80px;
     height: 200px;
-    background-image: url(/image/LABY.jpg);
+    background-image: url(../image/LABY.jpg);
     background-position: 50% 40%;
 }
 
