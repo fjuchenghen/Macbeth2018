@@ -170,7 +170,7 @@ body :target:before{
 .Img {
     width: 80px;
     height: 300px;
-    background-image: url('/image/4a8cc26f80db1.jpg');
+    background-image: url('image/4a8cc26f80db1.jpg');
     background-position: 44% 25%;
 }
 
