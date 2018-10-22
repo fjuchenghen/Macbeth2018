@@ -6,7 +6,7 @@ body{
 body :target:before{
   display: block;
   content: "";
-  height: 100px;
+  height: 60px;
   margin: 5px 0 0;
 }
 
