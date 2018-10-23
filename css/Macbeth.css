@@ -181,4 +181,10 @@ body :target:before{
         margin: 0 5px;
     }
 
+    .navbar-nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
 }
